@@ -1,0 +1,1 @@
+Google Dorks cheatsheet. Google Dorks, also known as Google hacking, are search queries that use advanced Google search operators to find specific information on the internet. These operators allow users to refine their searches beyond simple keywords, potentially uncovering information that is not readily apparent through typical searches.
